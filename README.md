@@ -3,7 +3,11 @@ In this Project, I go through the data model of the Rebrick able LEGO Dataset an
 
 
 1- Creating a Database in SQL Server
+
 2- Two different methods of Importing Files into a Database
+
 3- SQL Joins
+
 4- SQL Window Functions
+
 5- Common Table Expressions (CTEs)
